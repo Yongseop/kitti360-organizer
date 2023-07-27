@@ -22,14 +22,17 @@
 4. organize_~~ 파일들을 실행하여 압축을 해제합니다. zip 파일이 모두 모였다면 동시 실행하여도 무방합니다.
 
     ~/Storage$ organize_2d_confidence.sh
+   
     ~/Storage$ organize_2d_fisheye.sh
+   
     ...
+   
     ~/Storage$ organize_etc.sh
 
-5. https://www.cvlibs.net/datasets/kitti-360/documentation.php 와 수집된 디렉토리의 구조/내용이 일치하는지 확인합니다.
+6. https://www.cvlibs.net/datasets/kitti-360/documentation.php 와 수집된 디렉토리의 구조/내용이 일치하는지 확인합니다.
 
-6. https://github.com/Yongseop/kitti360_ros_player 로 결과를 검증합니다.
+7. https://github.com/Yongseop/kitti360_ros_player 로 결과를 검증합니다.
 
-7. 필요한 zip파일 목록 및 용량은 [files.txt](https://github.com/Yongseop/kitti360-organizer/blob/main/files.txt)  에서 확인하실 수 있습니다.
+8. 필요한 zip파일 목록 및 용량은 [files.txt](https://github.com/Yongseop/kitti360-organizer/blob/main/files.txt)  에서 확인하실 수 있습니다.
 
 문의: 정용섭
